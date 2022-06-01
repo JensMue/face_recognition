@@ -1,0 +1,17 @@
+tensorflow-gpu
+numpy
+opencv-python
+PyYAML
+tqdm
+Pillow
+Cython
+ipython
+dlib
+mtcnn
+unidecode
+tensorflow
+sklearn
+matplotlib
+face_recognition
+scipy
+keras
