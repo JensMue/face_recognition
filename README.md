@@ -20,7 +20,7 @@ of marketing activities by recognizing the customers' emotions at different poin
 The project repository contains four folders. The first three comprise the individual project parts face detection, 
 facial recognition, and emotion recognition. The fourth folder combines all three individual parts into a single 
 fully-integrated program. The repository structure with a brief description of file contents is shown below.
-We use relative paths in our project so please leave the repository folder structure as it is.
+Full-size models are available on request.
 
 ```
 face_recognition/
